@@ -27,7 +27,7 @@ Here's a walkthrough of implemented features:
 <!-- Replace this with a link to your actual GIF once created! -->
 <img src='https://github.com/ba-00001/AND102_PREWORK/blob/main/helloworldapp%20gif.gif' />
 
-<img src='https://github.com/ba-00001/AND102_PREWORK/blob/main/helloworldapp.png' />
+<img src='https://github.com/ba-00001/AND102_PREWORK/blob/main/helloworldapp.png' width=200 />
 
 <!-- GIF created with 
 [ScreenToGif](https://www.screentogif.com/) for Windows
