@@ -4,7 +4,7 @@ Submitted by: **Brian Bazurto**
 
 **HelloWorldApp** is an Android app that displays an image and an introductory message. Additionally, it includes a button that, when pressed, triggers the display of a Toast message.
 
-Time spent: **1** hours spent in total
+Time spent: **1** hour spent in total
 
 ## Required Features
 
@@ -24,11 +24,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<!-- Replace this with a link to your actual GIF once created! -->
+![Video Walkthrough](https://github.com/ba-00001/AND102_PREWORK/blob/main/helloworldapp%20gif.gif)
 
+![App Screenshot](https://github.com/ba-00001/AND102_PREWORK/blob/main/helloworldapp.png)
 
-<!-- GIF created with 
-[ScreenToGif](https://www.screentogif.com/) for Windows
 
 ## Notes
 
@@ -37,7 +36,7 @@ Here's a walkthrough of implemented features:
 
 ## License
 
-    Copyright [2024] [Brian]
+    Copyright [2024] [Brian Bazurto]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -50,4 +49,3 @@ Here's a walkthrough of implemented features:
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-
