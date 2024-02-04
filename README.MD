@@ -33,7 +33,9 @@ Here's a walkthrough of implemented features:
 [ScreenToGif](https://www.screentogif.com/) for Windows
 
 ## Notes
+
 **Note:** The Android Studio IDE may experience compatibility issues when used on OneDrive. It is recommended to store and work on your Android projects on a local drive to avoid potential performance and synchronization problems.
+
 
 ## License
 
