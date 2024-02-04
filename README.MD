@@ -25,8 +25,9 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <!-- Replace this with a link to your actual GIF once created! -->
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ba-00001/AND102_PREWORK/blob/main/helloworldapp%20gif.gif' />
+
+<img src='https://github.com/ba-00001/AND102_PREWORK/blob/main/helloworldapp.png' />
 
 <!-- GIF created with 
 [ScreenToGif](https://www.screentogif.com/) for Windows
